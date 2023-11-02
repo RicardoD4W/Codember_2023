@@ -23,7 +23,7 @@ Pd: en este README se hayan más pistas sobre los secretos en forma de comentari
 
 #### Reto 1
 
-- [🔒 Mensaje encriptado 🔒](./CHALLENGES/CHALLENGES_01/)
+- [🔒 Mensaje encriptado 🔒](./CHALLENGES/CHALLENGE_01/)
 
 </details>
 
