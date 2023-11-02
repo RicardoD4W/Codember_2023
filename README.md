@@ -23,7 +23,7 @@ Pd: en este README se hayan más pistas sobre los secretos en forma de comentari
 
 #### Reto 1
 
-- [🔒 Mensaje encriptado 🔒](https://github.com/RicardoD4W/Codember_2023/tree/main/CHALLENGES/CHALLENGE_01/)
+- [🔒 Mensaje encriptado 🔒](https://github.com/RicardoD4W/Codember_2023/tree/main/CHALLENGES/CHALLENGE_01)
 
 </details>
 
